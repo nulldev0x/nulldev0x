@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👾 N.D. Zero — aka @NullDex0x
 
-<!--
-**nulldev0x/nulldev0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-stack. AI operator. Chain-native builder.
 
-Here are some ideas to get you started:
+Welcome to the edge of the chain.  
+I build tools that automate chaos — AI-powered, gas-fueled, and optimized for survival in the memepunk economy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Philosophy
+
+> "Anons build without permission.  
+> LLMs are the new backend.  
+> Gas is the new fuel.  
+> Let's ship."
+
+---
+
+## 💬 Ping me
+
+I'm open to collabs on AI x Web3, bot infra, or experimental crypto games.  
+DM me on X → [@NullDex0x](https://x.com/NullDex0x)  
